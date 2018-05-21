@@ -1,2 +1,2 @@
 # NewTest
-For Git learning 
+This is a new test for Git learning. 
